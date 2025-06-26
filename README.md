@@ -10,7 +10,7 @@ A simple and intuitive **GUI-based temperature converter** built with **Python**
 
 ✅ User-friendly **GUI interface** for easy input and selection of temperature units.
 
-✅**Instant conversion** to other two temperature units upon selection.
+✅ **Instant conversion** to other two temperature units upon selection.
 
  # How it Works
 
