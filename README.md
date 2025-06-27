@@ -13,6 +13,6 @@
 #### ✅ **Instant conversion** to other two temperature units upon selection.
 
  # ⚙️ How it Works : 
-#### 1. *Enter a temperature value* in the input field.
-#### 2. *Select the unit* of the input temperature (Celsius, Fahrenheit, or Kelvin).
-#### 3. *The converter will automatically calculate and display* the equivalent temperatures in the other two units.
+#### 👉 *Enter a temperature value* in the input field.
+#### 👉 *Select the unit* of the input temperature (Celsius, Fahrenheit, or Kelvin).
+#### 👉 *The converter will automatically calculate and display* the equivalent temperatures in the other two units.
